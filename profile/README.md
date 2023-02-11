@@ -6,6 +6,6 @@ Currently development is done by [@electimon](https://github.com/electimon), hel
 
 Useful Links
 ------------
-[Bug Tracker](../../../../bug_tracker)
+[Bug Tracker](../../../../moto-common/bug_tracker)
 
-[Targets Depot](../../../../android_device_motorola_targets)
+[Targets Depot](../../../../moto-common/android_device_motorola_targets)
