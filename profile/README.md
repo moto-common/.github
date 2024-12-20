@@ -8,7 +8,7 @@ Useful Links
 ------------
 [Bug Tracker](https://1pwn.ixmoe.com/redmine/projects/moto-common)
 
-[Targets Depot](../../../../moto-common/android_device_motorola_targets)
+[Targets Depot](../../../../android_device_motorola_targets )
 
 Credits
 -------
